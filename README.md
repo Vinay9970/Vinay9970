@@ -13,6 +13,12 @@ I am a dedicated professional with a passion for Data Science, AI, Machine Learn
 
 ## 🌟 Top Languages
 
+## 🌟 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay4410&theme=default_repocard&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
+
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay4410&theme=default_repocard&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
 
 
