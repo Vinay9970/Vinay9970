@@ -6,11 +6,11 @@ I am a dedicated professional with a passion for data science, AI, machine learn
 
 ## 📊 GitHub Stats and Streak
 
-## 📊 GitHub Stats and Streak
+## 🌟 Top Languages
 ## 👀 Profile Views
 🌍 Collaboration and Impact
 
 Let's connect and explore opportunities to collaborate on exciting projects at the intersection of data science, AI, machine learning, natural language processing, deep learning, and computer vision. Feel free to reach out to me through the contact information provided below.🌐
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vinay_patel_087/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-bajariya-b93201245/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinaypatel4476@gmail.com)
+              [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vinay_patel_087/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-bajariya-b93201245/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinaypatel4476@gmail.com)
