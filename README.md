@@ -9,11 +9,12 @@ I am a dedicated professional with a passion for Data Science, AI, Machine Learn
 
 ## 📊 GitHub Stats and Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay9970&theme=dark&show_icons=true&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinay9970&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay4410&theme=default_repocard&show_icons=true&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinay4410&theme=default_repocard&hide_border=false)
 
 ## 🌟 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay9970&theme=dark&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay4410&theme=default_repocard&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
+
 
 ## 👀 Profile Views
 
