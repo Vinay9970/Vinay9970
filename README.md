@@ -9,17 +9,17 @@ I am a dedicated professional with a passion for Data Science, AI, Machine Learn
 
 ## 📊 GitHub Stats and Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay4410&theme=default_repocard&show_icons=true&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinay4410&theme=default_repocard&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay9970&theme=default_repocard&show_icons=true&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinay9970&theme=default_repocard&hide_border=false)
 
 ## 🌟 Top Languages
 
 ## 🌟 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay4410&theme=default_repocard&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay9970&theme=default_repocard&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay4410&theme=default_repocard&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay9970&theme=default_repocard&layout=compact&hide_border=false&langs_count=6&exclude_repo=github-readme-stats)
 
 
 ## 👀 Profile Views
@@ -34,21 +34,3 @@ I am a dedicated professional with a passion for Data Science, AI, Machine Learn
 🌍 Collaboration and Impact
 
 Let's connect and explore opportunities to collaborate on exciting projects at the intersection of data science, AI, machine learning, natural language processing, deep learning, and computer vision. Feel free to reach out to me through the contact information provided below.🌐
-
-<div align="center">
-  <a href="https://instagram.com/vinay_patel_087" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/vinay9970" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/vinay-bajariya-b93201245" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>  
-</div>
-
-<div align="center">
-  <a href="mailto:vinaypatel4476@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
-  </a>
-</div>
